@@ -106,7 +106,7 @@ This assignment will be graded via peer assessment.
 
 ### How To run my program
 
-This assignment will be graded via peer assessment.
+
 >x = rbind(c(1, -1/4), c(-1/4, 1))
 > m = makeCacheMatrix(x)
 > cacheSolve(m)
